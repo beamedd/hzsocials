@@ -2,3 +2,4 @@ RewriteEngine on
 
 RewriteRule ^clip4 clip4.html
 RewriteRule ^r r.html
+RewriteRule ^method method1.html
